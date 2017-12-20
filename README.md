@@ -5,7 +5,7 @@ Some auxiliary functions useful to pre-process images before DL models
 
 ```
  
- conda create -n (env_name)
+conda create -n (env_name)
 (env_name):
 
 conda install python=3.6
