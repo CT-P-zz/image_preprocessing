@@ -2,7 +2,8 @@
 Some auxiliary functions useful to pre-process images before DL models
 # Dependencies
 
- ´´´
+
+```
  
  conda create -n (env_name)
 (env_name):
@@ -15,4 +16,4 @@ pip install Pillow
 pip install pandas
 
 
- ´´´
+ ```
